@@ -4,9 +4,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 </p>
-## 💬 Quote of the Day
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 I'm Sudhanshu, a passionate developer with a keen interest in Full-Stack Development, Artificial intelligence and Machine Learning, and solving complex problems through Data Structures and Algorithms.
 - 🔭 I’m currently working on, tbh nothing, still learning.
 - 🌱 I’m learning React, Django and Advance Learning Algorithms.
