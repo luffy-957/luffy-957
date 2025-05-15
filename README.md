@@ -1,4 +1,9 @@
 # Hi there! 👋
+[![Follow Me](https://img.shields.io/badge/Follow-My_Profile-1DA1F2?style=for-the-badge&logo=github)](https://github.com/luffy-957)
+## 👋 About Me
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+</p>
 
 I'm Sudhanshu, a passionate developer with a keen interest in Full-Stack Development, Artificial intelligence and Machine Learning, and solving complex problems through Data Structures and Algorithms.
 - 🔭 I’m currently working on, tbh nothing, still learning.
@@ -30,6 +35,15 @@ I'm Sudhanshu, a passionate developer with a keen interest in Full-Stack Develop
 ![LeetCode Stats](https://leetcard.jacoblin.cool/luffy_957?theme=dark&font=Source%20Code%20Pro)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=luffy-957.luffy-957)
+
+## 🚀 Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=luffy-957&theme=react-dark)
+
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=luffy-957&theme=radical)
+
+## 🎨 My Dev Card
+[![DevCard](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luffy-957&theme=radical)](https://github.com/luffy-957)
 
 <!--
 **luffy-957/luffy-957** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
