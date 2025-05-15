@@ -24,6 +24,13 @@ I'm Sudhanshu, a passionate developer with a keen interest in Full-Stack Develop
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luffy-957&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luffy-957&layout=compact&theme=radical)
+
+## 🏆 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/luffy_957?theme=dark&font=Source%20Code%20Pro)
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=luffy-957.luffy-957)
+
 <!--
 **luffy-957/luffy-957** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
