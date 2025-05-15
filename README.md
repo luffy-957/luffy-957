@@ -36,8 +36,9 @@ I'm Sudhanshu, a passionate developer with a keen interest in Full-Stack Develop
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=luffy-957.luffy-957)
 
-## 🚀 Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=luffy-957&theme=react-dark)
+## 🚀 GitHub Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=luffy-957&theme=react-dark&hide_border=true&area=true)
+
 
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=luffy-957&theme=radical)
