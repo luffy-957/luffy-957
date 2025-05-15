@@ -22,7 +22,7 @@ I'm Sudhanshu, a passionate developer with a keen interest in Full-Stack Develop
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luffy-957&show_icons=true&theme=radical)
 
 <!--
 **luffy-957/luffy-957** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
