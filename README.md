@@ -2,7 +2,7 @@
 [![Follow Me](https://img.shields.io/badge/Follow-My_Profile-1DA1F2?style=for-the-badge&logo=github)](https://github.com/luffy-957)
 ## About Me
 <p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100">
 </p>
 I'm Sudhanshu, a passionate developer with a keen interest in Full-Stack Development, Artificial intelligence and Machine Learning, and solving complex problems through Data Structures and Algorithms.
 - 🔭 I’m currently working on, tbh nothing, still learning.
