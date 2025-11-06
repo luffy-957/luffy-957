@@ -39,9 +39,6 @@ I'm Sudhanshu, a passionate developer with a keen interest in Full-Stack Develop
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=luffy-957&theme=react-dark&hide_border=true&area=true)
 
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=luffy-957&theme=radical)
-
 ## 🎨 My Dev Card
 [![DevCard](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luffy-957&theme=radical)](https://github.com/luffy-957)
 
